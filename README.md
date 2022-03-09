@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 <div align="center">
   
-[![Gif](https://github.com/AnasDORBANI/AnasDORBANI/blob/d157eac66c5cc61d93f40d349823d00129575ba9/animation_500_kxa883sd.gif?raw=true)](#)\
+[![Gif](https://github.com/AnasDORBANI/AnasDORBANI/blob/a2a99d48c0e81c069d307b6f1028bd7a997b996d/resources/animation_500_kxa883sd.gif?raw=true)](#)\
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
