@@ -52,9 +52,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AnasDORBANI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](#)\
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnasDORBANI&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](#)\
-[![GitHub Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasDORBANI&layout=compact&langs_count=8&theme=algolia)](#)\
+![dorbanianas's Stats](https://github-readme-stats.vercel.app/api?username=dorbanianas&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![dorbanianas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorbanianas&theme=highcontrast&hide_border=false)
 
 </div>
 
