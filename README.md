@@ -1,64 +1,13 @@
+<h1 align="center">Hi 👋, I'm Anas Dorbani</h1>
+<h3 align="center">ML Software Engineer @Oracle</h3>
 
-<h1 align="center">Hi 👋, I'm Anas DORBANI</h1>
-<h3 align="center">Data Science & IOT Student at ENSIAS | Web Developper 🌟.</h3>
-
-<!--
-**AnasDORBANI/AnasDORBANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 👨🏻‍💻 &nbsp;About Me
-
-* 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-* 🎓 &nbsp;I'm currently studying Computer Science at National School of Computer Science in Morocco.
-* 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science, Systems Design, and Cloud Architecture.
-* ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
-* 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-* ✉️ &nbsp;You can shoot me an email at anasdorbani@gmail.com! I'll try to respond as soon as I can.
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
-
-### 🛠 &nbsp;Tech Stack
-<div align="center">
-  
-[![Gif](https://github.com/AnasDORBANI/AnasDORBANI/blob/a2a99d48c0e81c069d307b6f1028bd7a997b996d/resources/animation_500_kxa883sd.gif?raw=true)](#)\
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#)
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](#)
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)
-</div>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-  
-![dorbanianas's Stats](https://github-readme-stats.vercel.app/api?username=dorbanianas&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![dorbanianas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorbanianas&theme=highcontrast&hide_border=false)
-
-</div>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasdorbani@gmail.com)
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-dorbani)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/anasdorbani)
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorbanianas" alt="dorbanianas" /></a>
+  <p align="center">📫 How to reach me <strong><a href="mailto:anasdorbani@gmail.com">anasdorbani@gmail.com</a></strong></p>
+</p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/https://twitter.com/dorbanianas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dorbanianas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dorbanianas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dorbanianas/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/anasdorbani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anasdorbani/" height="30" width="40" /></a>
+</p>
