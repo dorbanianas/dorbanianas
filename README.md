@@ -2,7 +2,6 @@
 <h3 align="center">ML Software Engineer @Oracle</h3>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorbanianas" alt="dorbanianas" /></a>
   <p align="center">📫 How to reach me <strong><a href="mailto:anasdorbani@gmail.com">anasdorbani@gmail.com</a></strong></p>
 </p>
 <h3 align="center">Connect with me:</h3>
