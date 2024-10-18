@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Dorbani</h1>
-<h3 align="center">PhD Student <a href="https://github.com/dsg-polymtl">@dsg_polymtl</a></h3>
+<h3 align="center">PhD Student <a href="https://github.com/dsg-polymtl">@DSG_PolyMtl</a></h3>
 
 <p align="center"> 
   <p align="center">📫 How to reach me <strong><a href="mailto:anasdorbani@gmail.com">anasdorbani@gmail.com</a></strong></p>
